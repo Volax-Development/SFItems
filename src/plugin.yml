@@ -1,0 +1,7 @@
+main: fr.ixion.sfitems.Main
+name: SFItems
+version: 1.0
+depend: [WorldGuard,ShopGUIPlus,Vault]
+author: Ixion
+commands:
+  sfitems:

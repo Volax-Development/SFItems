@@ -1,0 +1,109 @@
+diamond_stick:
+  name: "&bStick en diamand"
+  item_id: 280
+  craft: true
+  givemessage: ""
+hammer:
+  name: "&6Marteau"
+  item_id: 278
+  dura: 650
+  craft: true
+  givemessage: ""
+  lore:
+    - "&7%dura&6/&7%maxdura"
+houe_de_farm:
+  name: "&6Houe de farm"
+  item_id: 293
+  dura: 1500
+  givemessage: ""
+  lore:
+    - "&7%dura&6/&7%maxdura"
+epee_de_farm:
+  name: "&6Épée de farm"
+  item_id: 276
+  dura: 1300
+  craft: true
+  givemessage: ""
+  lore:
+    - "&7%dura&6/&7%maxdura"
+unclaim_finder:
+  name: "&6Unclaim Finder"
+  item_id: 347
+  dura: 500
+  lore:
+    - "&7%dura&6/&7%maxdura"
+  cooldown: 10
+  cooldownmessage: "&7[&6%p&7] &cVous ne pouvez pas utiliser cet item avant &e%time &csecondes"
+  usemessage: "&aLe chunk est à &b%am &a%."
+  stackable: false
+  givemessage: ""
+sellstick:
+  name: "&6Sellstick"
+  item_id: 280
+  dura: 500
+  givemessage: ""
+  lore:
+    - "&7%dura&6/&7%maxdura"
+  usemessage: "%p -> &6Vous venez de vendre x&e%am &6items pour §a%price &6€."
+  stackable: false
+sellchest:
+  name: "&6Sellchest"
+  item_id: 54
+  lore:
+    - "&6Vendeur auto"
+  usemessage: "%p -> &6Vous venez de vendre x&e%am &6items pour §a%price &6€."
+  stackable: true
+farmhopper:
+  name: "&6Hopper de farm"
+  item_id: 154
+  lore:
+    - "&6Hopper farm"
+  stackable: true
+
+farm_helmet:
+  name: "&6Farm Helmet"
+  item_id: 306
+  lore:
+    - "&6desc"
+farm_chestplate:
+  name: "&6Farm de farm"
+  item_id: 307
+  lore:
+    - "&6desc"
+farm_leggings:
+  name: "&6Farm leggings"
+  item_id: 308
+  lore:
+    - "&6desc"
+  stackable: true
+farm_boots:
+  name: "&6Farm boots"
+  item_id: 309
+  lore:
+    - "&6desc"
+special_pickaxe:
+  name: "&6Pioche spéciale"
+  item_id: 278
+  lore:
+    - "&6Permet de récupérer les hopper de farm"
+    - "&6et les Sellchest"
+  enchantments: "1:4;2:2"
+  glowing: false
+ench_1_pickaxe:
+  name: "&6Pioche 1"
+  item_id: 278
+  lore:
+    - "&6Permet de récupérer les hopper de farm"
+    - "&6et les Sellchest"
+ench_2_pickaxe:
+  name: "&6Pioche 2"
+  item_id: 278
+  lore:
+    - "&6Permet de récupérer les hopper de farm"
+    - "&6et les Sellchest"
+ench_3_pickaxe:
+  name: "&6Pioche 3"
+  item_id: 278
+  lore:
+    - "&6Permet de récupérer les hopper de farm"
+    - "&6et les Sellchest"

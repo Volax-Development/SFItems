@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SFItems:jar">
+    <output-path>$PROJECT_DIR$/../../../../../..</output-path>
+    <root id="archive" name="SFItems.jar">
+      <element id="module-output" name="SFItems" />
+    </root>
+  </artifact>
+</component>
